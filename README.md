@@ -1,5 +1,6 @@
 # Usage (Local Development Only!)
 This repo will start a laravel 10 TALL stack in Docker
+
 To start the containers
 ```
 docker compose up --build
