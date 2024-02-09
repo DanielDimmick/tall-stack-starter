@@ -11,6 +11,7 @@ composer i
 npm i
 php artisan key:generate
 php artisan migrate
+npm run build
 ```
 
 To access the site open http://localhost:8000
