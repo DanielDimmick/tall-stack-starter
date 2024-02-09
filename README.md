@@ -1,4 +1,4 @@
-# Usage
+# Usage (Local Development Only!)
 
 To start the containers
 ```
@@ -9,6 +9,7 @@ Once started connect to the shell of the laravel container and run
 ```
 composer i
 npm i
+php artisan key:generate
 php artisan migrate
 ```
 
