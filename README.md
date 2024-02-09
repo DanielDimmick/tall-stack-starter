@@ -1,4 +1,5 @@
 # Usage (Local Development Only!)
+This repo will start a laravel 10 TALL stack in Docker
 
 To start the containers
 ```
@@ -11,6 +12,7 @@ composer i
 npm i
 php artisan key:generate
 php artisan migrate
+npm run build
 ```
 
 To access the site open http://localhost:8000
