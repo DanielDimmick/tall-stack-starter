@@ -6,7 +6,7 @@ To start the containers
 docker compose up --build
 ```
 
-Once started connect to the shell of the laravel container and run
+Once started connect to the shell of the laravel container and copy ./laravel/.env.example to ./laravel/.env and then run
 ```
 composer i
 npm i
